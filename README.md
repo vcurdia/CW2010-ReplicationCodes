@@ -29,7 +29,7 @@ LaTeX is used by some tools to compile certain documents.
 - [ACR-LQ](https://github.com/vcurdia/ACR-LQ)
   by
   [Vasco Cúrdia](http://www.frbsf.org/economic-research/economists/vasco-curdia/), 
-  version 
+  Filippo Altissimo, and Diego Rodriguez Palenzuela, version 
   [v1.0.0](https://github.com/vcurdia/ACR-LQ/releases/tag/v1.0.0)
 - [gensys](http://sims.princeton.edu/yftp/gensys/)
   by [Chris Sims](http://www.princeton.edu/~sims/)
