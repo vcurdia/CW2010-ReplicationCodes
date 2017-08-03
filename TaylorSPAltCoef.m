@@ -30,7 +30,7 @@ Policy = 'TaylorYnSP';
 RefPol = 'TaylorYn';
 phi_pi = 1.5;
 phi_y = 0.5;
-Alt_phi_omega = .25:.25:1;
+Alt_phi_omega = .25:.05:1;
 nRulesMax = 5000;
 ShowGapRed = 0;
 ShowImprovement = 0;
@@ -43,22 +43,11 @@ isListIncrease = 0;
 NumFactor = 10^5;
 
 %% Parallel options
-UseParallel = 1;
+UseParallel = 0;
 % nMaxWorkers = 20;
 % nRules = length(Alt_phi_omega);
 % nMaxWorkers = min(45,round(nRules/25))
 % UseParallel = (nMaxWorkers>=2);
-% ListPathDependencies = {'/data/dsge_data_dir/Vasco/MatlabRoutines'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/VC'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/VC/LQ'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/VC/BayesianEstimation'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/VC/CREstimation'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/Sims'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/Sims/gensys'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/Sims/optimize'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/Sims/VARtools'...
-%                         ,'/data/dsge_data_dir/Vasco/MatlabRoutines/RedsSoldsFiles'};
-% addpath(ListPathDependencies{:})
 
 %% ------------------------------------------------------------------------
 
