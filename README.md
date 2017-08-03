@@ -25,16 +25,19 @@ LaTeX is used by some tools to compile certain documents.
 
 `epstopdf`, included in most LaTeX releases, is used by some tools.
 
-## Additional codes needed
+
+## Additional codes
+
+Codes by [Vasco Cúrdia](http://www.frbsf.org/economic-research/economists/vasco-curdia/):
 - [ACR-LQ](https://github.com/vcurdia/ACR-LQ)
-  by
-  [Vasco Cúrdia](http://www.frbsf.org/economic-research/economists/vasco-curdia/), 
-  Filippo Altissimo, and Diego Rodriguez Palenzuela, version 
+  joint with Filippo Altissimo and Diego Rodriguez Palenzuela, version 
   [v1.0.0](https://github.com/vcurdia/ACR-LQ/releases/tag/v1.0.0)
+
+Codes by [Chris Sims](http://www.princeton.edu/~sims/):
 - [gensys](http://sims.princeton.edu/yftp/gensys/)
-  by [Chris Sims](http://www.princeton.edu/~sims/)
 - [optimize](http://dge.repec.org/codes/sims/optimize/)
-  by [Chris Sims](http://www.princeton.edu/~sims/)
+
+All auxiliary codes included in this repository in subfolders.
 
 
 # Description of Replication Codes
