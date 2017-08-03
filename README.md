@@ -88,6 +88,12 @@ models. Can also choose a single model and a single policy. Can choose
 alternative composition of the panel (different variables to plot), whether
 to make figure in black and white or color, whether to create eps and many
 other alternatives. See first few sections of the code for all options.
+For example, the following command will create a figure comparing outcomes for
+the `FF`model with baseline calibration under optimal policy, flexible 
+targeting criterion, and the Taylor rule:
+```
+IRFPlotCompare({'FF'},{'LQ','FlexTarget','Taylor'})
+```
 
 `ExerciseZLB.m`  
 Similar to `IntModelFF.m` but accounting for the ZLB.
