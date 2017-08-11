@@ -1,6 +1,6 @@
-# CW2010-CreditSpreadsMonPol
+# CW2010-ReplicationCodes
 
-[![License](https://img.shields.io/badge/license-BSD%203--clause-green.svg)](https://github.com/vcurdia/CW2010-CreditSpreadsMonPol/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BSD%203--clause-green.svg)](https://github.com/vcurdia/CW2010-ReplicationCodes/blob/master/LICENSE)
 
 These codes reproduce the results in:
 
@@ -8,10 +8,10 @@ These codes reproduce the results in:
 [Credit Spreads and Monetary Policy](http://onlinelibrary.wiley.com/doi/10.1111/j.1538-4616.2010.00328.x/abstract)
 *Journal of Money, Credit and Banking*, 42 (s1), pp. 3-35.
 
-[Technical Appendix](https://github.com/vcurdia/CW2010-CreditSpreadsMonPol/blob/master/CW2010_Appendix.pdf)
+[Technical Appendix](https://github.com/vcurdia/CW2010-ReplicationCodes/blob/master/CW2010_Appendix.pdf)
 
 These replication codes are available online at:  
-https://github.com/vcurdia/CW2010-CreditSpreadsMonPol
+https://github.com/vcurdia/CW2010-ReplicationCodes
 
 # Requirements
 
